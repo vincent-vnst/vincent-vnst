@@ -1,16 +1,14 @@
-## Hi there 👋
+# Directeur des études DEUST WMI, DSP OFA, DSP ADGM
 
-<!--
-**vincent-vnst/vincent-vnst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Je suis directeur des études du DEUST WMI de Calais et j'enseigne les fondamentaux du développement web (HTML, CSS, JavaScript, PHP). Passionné par la transmission des connaissances, j'accompagne mes étudiants dans l'acquisition des compétences nécessaires pour réussir dans le secteur du numérique.
 
-Here are some ideas to get you started:
+## Compétences techniques
+* HTML5
+* CSS3
+* JavaScript
+* PHP
+* WordPress
+* Laravel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets pédagogiques
+
