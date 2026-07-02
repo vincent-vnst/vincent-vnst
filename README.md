@@ -5,10 +5,12 @@ Je suis directeur des études du DEUST WMI de Calais et j'enseigne les fondament
 ## Compétences techniques
 * HTML5
 * CSS3
+* Tailwind
 * JavaScript
+* Vue
 * PHP
-* WordPress
 * Laravel
+* WordPress
 
 ## Projets pédagogiques
 
